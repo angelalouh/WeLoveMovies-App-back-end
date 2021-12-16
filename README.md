@@ -1,4 +1,4 @@
-# WeLoveMovies Server
+# WeLoveMovies API
 Server API for storing and delivering WeLoveMovies' movies, theaters, and reviews data. 
 
 Completion of this Thinkful assignment required:
@@ -18,7 +18,7 @@ Completion of this Thinkful assignment required:
 
 ## Links
 - [App Demo](https://we-love-movies-app-front-end.vercel.app/)
-- [App Documentation](https://github.com/angelalouh/WeLoveMovies)
+- [App Documentation](https://github.com/angelalouh/project-welovemovies-app)
 
 ## Technology
 Built with:
