@@ -1,5 +1,5 @@
-# WeLoveMovies API
-Server API for storing and delivering WeLoveMovies' movies, theaters, and reviews data. 
+# WeLoveMovies Backend & API
+The backend and API of WeLoveMovies facilitates storage and delivery of WeLoveMovies' movies, theaters, and reviews data. 
 
 Completion of this Thinkful assignment required:
 - Installation and use of common middleware packages
