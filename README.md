@@ -18,7 +18,7 @@ Completion of this Thinkful assignment required:
 
 ## Links
 - [App Demo](https://we-love-movies-app-front-end.vercel.app/)
-- [App Documentation](https://github.com/angelalouh/WeLoveMovies-App-front-end)
+- [App Documentation](https://github.com/angelalouh/WeLoveMovies)
 
 ## Technology
 Built with:
