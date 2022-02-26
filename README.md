@@ -20,6 +20,10 @@ Completion of this Thinkful assignment required:
 - [App Demo](https://we-love-movies-app-front-end.vercel.app/)
 - [App Documentation](https://github.com/angelalouh/project-welovemovies-app)
 
+## Screenshot
+### Home Page:
+![home](/screenshots/home.jpg)
+
 ## Technology
 Built with:
 - Node.js
